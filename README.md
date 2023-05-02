@@ -18,7 +18,7 @@ Through our **Emotionist SDK** for Android, you can efficiently integrate real-t
 
 ### Requirements
 
-The minimum requirements for ESRC SDK for Android are:
+The minimum requirements for Emotionist SDK for Android are:
 
 - Android 4.2.0 (API level 17) or later
 - Java 8 or later
@@ -87,9 +87,9 @@ dependencies {
 > Note: Make sure the above code block isn't added to your module `bundle.gradle` file.
 
 
-### Step 2: Grant system permissions to the ESRC SDK
+### Step 2: Grant system permissions to the Emotionist SDK
 
-The ESRC SDK requires system permissions. These permissions allow the ESRC SDK to use a camera and read from and write on a user device’s storage. To grant system permissions, add the following lines to your `AndroidManifest.xml` file.
+The Emotionist SDK requires system permissions. These permissions allow the Emotionist SDK to use a camera and read from and write on a user device’s storage. To grant system permissions, add the following lines to your `AndroidManifest.xml` file.
 
 ```manifest
 <!-- For using the camera -->
