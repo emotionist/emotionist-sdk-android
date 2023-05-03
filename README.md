@@ -16,7 +16,7 @@ The SDK provides the full functionality to provide a rich emotion experience, im
 
 ### FaceExpression
 
-    We recognizes 7 face expressions consisting of neutral, happiness, sadness, surprise, anger, disgust and fear based on 6 basic emotions. To recognize face expresisons, the facial action units are divided based on Facial Action Coding  System determined by Paul Ekman. For further detail on FaceExpression solution, refer to [FaceExpression repo](https://github.com/emotionist/emotionist-sdk-android/tree/master/faceexpression).
+We recognizes 7 face expressions consisting of neutral, happiness, sadness, surprise, anger, disgust and fear based on 6 basic emotions. To recognize face expresisons, the facial action units are divided based on Facial Action Coding  System determined by Paul Ekman. For further detail on FaceExpression solution, refer to [FaceExpression repo](https://github.com/emotionist/emotionist-sdk-android/tree/master/faceexpression).
 
 ### FaceRppg
  
