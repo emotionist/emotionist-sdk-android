@@ -20,7 +20,7 @@ Through our **Emotionist FaceRppg SDK** for Android, you can efficiently integra
 
 ### Key functions
 
-||Description|
+|Function|Description|
 |---|---|
 |Heart Rate Estimation| Estimate heart rate from facial color variations and head movements caused by heartbeat using Remote Photoplethysmography and Ballistocardiography. |
 |Heart Rate Variability Analysis| Extract 19 variables of heart rate variability reflecting autonomic nervous system activity from the accumulated heart rates. |
