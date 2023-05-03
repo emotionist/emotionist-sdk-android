@@ -103,7 +103,7 @@ For more information about requesting app permissions, see  Android’s Request 
 
 <br />
 
-## Making your first recognition
+## Measuring your heartbeat
 
 The Emotionist FaceRppg SDK simplifies vision features into an effortless and straightforward process. To recognize your heart responses do the following steps:
 
