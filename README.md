@@ -20,4 +20,4 @@ We recognizes 7 face expressions consisting of neutral, happiness, sadness, surp
 
 ### FaceRppg
  
- We measures heart response non-contactly using a camera. The facial blood volume pulse is estimated from facial color variations and head movements caused by heartbeat using remote Photoplethysmography and Ballistocardiography. Our solution provide heart rate, heart rate variaility reflecting autonomic nervous system activity and respiration. For further detail on FaceRppg solution, refer to [FaceExpression repo](https://github.com/emotionist/emotionist-sdk-android/tree/master/facerppg).
+ We measures heart response non-contactly using a camera. The facial blood volume pulse is estimated from facial color variations and head movements caused by heartbeat using remote Photoplethysmography and Ballistocardiography. Our solution provide heart rate, heart rate variaility reflecting autonomic nervous system activity and respiration. For further detail on FaceRppg solution, refer to [FaceRppg repo](https://github.com/emotionist/emotionist-sdk-android/tree/master/facerppg).
